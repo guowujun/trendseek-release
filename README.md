@@ -9,17 +9,19 @@ TrendSeek 是一款面向 A 股投资者的 **AI 股票筛选与分析助手**,�
 ### AI 对话分析
 内嵌多 Agent 智能体,通过自然语言对话即可完成个股分析、行情解读与选股研究;支持新对话、最近对话管理(查看/重命名/删除),对话中提到的股票代码可一键跳转 K 线图。
 
+![1](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/1.jpg)
+
 ### K 线图看盘
-基于本地行情库的专业 K 线图,内置通达信口径的技术指标(布林带、MACD、KDJ、WR、均量线、牵引线/强弱线、H120 等),支持全市场证券搜索、盘中实时刷新、区间统计与右键操作;K 线页可一键发起 AI 分析。
+基于本地行情库的专业 K 线图,内置通达信口径的技术指标(布林带、MACD、KDJ、WR、均量线、牵引线/强弱线、H120 等),支持全市场证券搜索、盘中实时刷新、区间统计与右键操作;K 线页可一键发起 AI 分析。![2](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/2.jpg)
 
 ### 选股器
-用指标公式定义选股条件(如 `Close>UB AND MACD>0 AND V>V10`),支持 AND/OR 多层括号组合与保存前校验;可对全市场一键运行筛出当日符合条件的股票。还支持在 K 线图上框选一段历史上涨区间,**反向自动生成选股公式**,把"看得见的形态"变成"可复用的条件"。
+用指标公式定义选股条件(如 `Close>UB AND MACD>0 AND V>V10`),支持 AND/OR 多层括号组合与保存前校验;可对全市场一键运行筛出当日符合条件的股票。还支持在 K 线图上框选一段历史上涨区间,**反向自动生成选股公式**,把"看得见的形态"变成"可复用的条件"。![4](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/4.jpg)
 
 ### 自选股与盯盘模式
-自选股列表支持增删、排序与行情快照,快捷键 F6 即时加入/移除;F7 进入盯盘模式,以贴边悬浮小窗滚动看行情,不占用主窗口。
+自选股列表支持增删、排序与行情快照,快捷键 F6 即时加入/移除;F7 进入盯盘模式,以贴边悬浮小窗滚动看行情,不占用主窗口。![7](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/7.jpg)
 
 ### 移动端看盘
-一键开启局域网/远程访问服务,手机扫码即可用浏览器查看对话、K 线、自选股与选股器运行结果,无需安装 App。
+一键开启局域网/远程访问服务,手机扫码即可用浏览器查看对话、K 线、自选股与选股器运行结果,无需安装 App。![6](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/6.jpg)
 
 ## 数据与模型
 
