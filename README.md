@@ -27,5 +27,5 @@ TrendSeek 是一款面向 A 股投资者的 **AI 股票筛选与分析助手**,�
 - **大模型灵活接入**:专业版开箱即用服务端下发模型(含每日配额),也可切换自定义模型,兼容 DeepSeek、智谱、通义千问、Kimi、豆包、MiniMax、百度千帆等主流厂商,配置页带连通性测试与友好的中文错误提示。
 
 ## 软件下载
-[下载链接]：(https://github.com/guowujun/trendseek-release/releases)https://github.com/guowujun/trendseek-release/releases
+[下载链接：](https://github.com/guowujun/trendseek-release/releases)https://github.com/guowujun/trendseek-release/releases
 联系邮箱：605941936@qq.com
