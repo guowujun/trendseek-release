@@ -9,7 +9,7 @@ TrendSeek 是一款面向 A 股投资者的 **AI 股票筛选与分析助手**,�
 ### AI 对话分析
 内嵌多 Agent 智能体,通过自然语言对话即可完成个股分析、行情解读与选股研究;支持新对话、最近对话管理(查看/重命名/删除),对话中提到的股票代码可一键跳转 K 线图。
 
-![1](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/1.jpg)
+![1](assets/1.jpg)
 
 ### K 线图看盘
 基于本地行情库的专业 K 线图,内置通达信口径的技术指标(布林带、MACD、KDJ、WR、均量线、牵引线/强弱线、H120 等),支持全市场证券搜索、盘中实时刷新、区间统计与右键操作;K 线页可一键发起 AI 分析。![2](/Users/masterguo/Documents/WorkSpace/go/src/trendseek-release/assets/2.jpg)
